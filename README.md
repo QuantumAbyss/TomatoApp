@@ -2,5 +2,6 @@
 Code for creation of a tomato varietal AI classifier
 
 URL for the web application:
+https://mybinder.org/v2/gh/QuantumAbyss/TomatoApp/master?urlpath=%2Fvoila%2Frender%2FTomatoApp.ipynb
 
-https://hub.gke2.mybinder.org/user/quantumabyss-tomatoapp-f4r5jxl5/voila/render/TomatoApp.ipynb?token=PJcoGPyUSq2hvuTvfLZ1Dw
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QuantumAbyss/TomatoApp/master?urlpath=%2Fvoila%2Frender%2FTomatoApp.ipynb)
